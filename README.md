@@ -9,5 +9,6 @@ Personal knowledge base for studying large language models.
 - `Papers/`: paper summaries, highlights, and replication notes organized per markdown file.
 - `Articles/`: notes from blogs or newsletters; optionally group by source (`Medium/`, `Substack/`, etc.).
 - `YouTube/`: takeaways from video resources with timestamps and links.
+- `Hardware/`: GPU and accelerator terminology, sizing guidance, and ops references.
 
 Feel free to add more folders or rename subdirectories as your learning journey expands.
